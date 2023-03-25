@@ -1,8 +1,0 @@
-C:\CursoCSharp\Fibonacci\Fibonacci\bin\Release\Fibonacci.exe.config
-C:\CursoCSharp\Fibonacci\Fibonacci\bin\Release\Fibonacci.exe
-C:\CursoCSharp\Fibonacci\Fibonacci\bin\Release\Fibonacci.pdb
-C:\CursoCSharp\Fibonacci\Fibonacci\obj\Release\Fibonacci.csproj.AssemblyReference.cache
-C:\CursoCSharp\Fibonacci\Fibonacci\obj\Release\Fibonacci.csproj.SuggestedBindingRedirects.cache
-C:\CursoCSharp\Fibonacci\Fibonacci\obj\Release\Fibonacci.csproj.CoreCompileInputs.cache
-C:\CursoCSharp\Fibonacci\Fibonacci\obj\Release\Fibonacci.exe
-C:\CursoCSharp\Fibonacci\Fibonacci\obj\Release\Fibonacci.pdb

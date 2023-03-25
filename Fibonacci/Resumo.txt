@@ -1,8 +1,0 @@
-Neste módulo, você testou como o uso de depuradores pode ser uma estratégia eficaz para depurar problemas em programas .NET. Seja com o depurador interno para sessões rápidas ou com o depurador do Visual Studio Code para projetos mais complexos, você viu como localizar e corrigir esses bugs. Você também aprendeu a fazer isso mesmo sem conhecer com antecedência o código a ser depurado.
-
-Neste módulo, você aprendeu a:
-
-Usar o depurador do Visual Studio com um programa .NET.
-Criar pontos de interrupção e executar o código passo a passo para encontrar problemas.
-Inspecionar o estado do programa em qualquer etapa de execução.
-Analisar a pilha de chamadas para localizar a origem de uma exceção.
