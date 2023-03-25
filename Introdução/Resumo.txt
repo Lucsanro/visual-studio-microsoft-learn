@@ -1,0 +1,12 @@
+Agora você teve uma introdução básica ao Visual Studio. Conforme mencionado no início, esse IDE existe há mais de 20 anos, portanto, não se surpreenda se você continuar a aprender coisas novas.
+
+Você aprendeu o que é um IDE e a diferença entre o Visual Studio e o Visual Studio Code.
+Foram abordadas as funcionalidades fundamentais que compõem um IDE da mais alta qualidade, por exemplo:
+Funcionalidades de editor, como IntelliSense, navegação e correções de código.
+Funcionalidades de depurador que ajudam a inspecionar o código conforme ele é executado.
+Personalização do IDE alterando os temas e as janelas para atender às suas necessidades.
+Extensões populares criadas pelo ecossistema de desenvolvedores que usam o Visual Studio.
+Coprogramação colaborativa com o Live Share.
+Ferramentas de publicação que ajudam a implantar seu aplicativo na nuvem.
+Agora você sabe quando o Visual Studio pode ajudar com suas diferentes tarefas de desenvolvedor.
+Lembre-se do exemplo no início deste módulo de aprendizado para programar seu primeiro site. O Visual Studio pode ajudar você a selecionar modelos de site para começar. Ele oferece dicas e avisos conforme você digita no editor. Além disso, é possível inspecionar o aplicativo Web durante a execução local dele, com as ferramentas do depurador. Espero que este módulo tenha dado a você uma boa compreensão do motivo pelo qual muitos desenvolvedores acham que os IDEs os tornam mais produtivos. Boa codificação!
