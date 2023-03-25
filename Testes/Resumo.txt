@@ -1,0 +1,16 @@
+Resumo
+
+Neste módulo, você aprendeu a finalidade, os conceitos e as escolas de pensamento de testes e viu como elas podem auxiliar no aprimoramento da qualidade do seu código.
+
+Conceitos: exploramos o conceito de teste e como ele pode ajudar a detectar bugs antes do lançamento do seu software.
+Benefícios dos testes: os testes ajudam a validar alterações de código, aprimorar a arquitetura e aumentar a integridade do código.
+
+Diferentes tipos de teste: tipos diferentes de teste podem atender a necessidades diferentes em uma base de código.
+
+Diferentes escolas de pensamento: explicamos os conceitos de várias escolas de pensamento de testes que ajudam a orientar práticas recomendadas entre as equipes.
+
+Você viu como os testes podem documentar e verificar o comportamento no exemplo de número de telefone. Os testes permitem que você verifique automaticamente a funcionalidade sem a necessidade de percorrer cada cenário com suporte. Qualquer aplicativo que cresça constantemente pode usar os testes para verificar se uma nova funcionalidade não interrompe o comportamento antigo.
+
+Saber mais sobre os diferentes tipos de teste podem resultar em novas maneiras de verificar seu código. Talvez os testes de unidade confirmem a validade de algumas alterações, mas um teste de desempenho informa o que uma função agora está demorando duas vezes mais para ser executada. Talvez seu aplicativo passe nos testes de unidade e de desempenho, mas seus testes de interface de usuário demonstram um comportamento estranho na renderização da interface do usuário. Testar de várias perspectivas diferentes aprimora a qualidade do seu aplicativo antes que ele chegue aos clientes.
+
+As escolas de pensamento de testes recomendam diferentes estilos de teste que podem fazer com que as equipes aprimorem a arquitetura e a cobertura de código. Você não precisa seguir cada disciplina de teste perfeitamente. Basta ter em mente que há muitas diretrizes para as pessoas que desejam desenvolver as próprias práticas de teste.
